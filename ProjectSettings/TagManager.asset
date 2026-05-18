@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - InvisibleWall
+  - WaterDroplet
+  - Plant
+  - Box
+  - Ground
+  - PlantPlaceholder
+  - WaterDroplet
+  - TomatoSeed
+  - Grass
+  - FertilizerDroplet
+  - PlantSeed
+  - SeedBag
+  - CarrotSeed
+  - CornSeed
+  - TomatoPlant
+  - CornPlant
+  - Meteor
+  - FxTemporaire
+  - Floor
+  - Shovel
+  - Corn
+  - Cabbage
+  - Tomato
+  - Carrot
+  - PepperSeed
+  - CabbageSeed
+  - Pepper
+  - PepperPlant
+  - CabbagePlant
+  - CarrotPlant
+  - WaterCan
+  - Harvestable
+  - HarvestItem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Interactable Ray
+  - Not Interactable Ray
+  - Player
+  - Non Collide Object
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
